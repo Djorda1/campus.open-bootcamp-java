@@ -80,7 +80,7 @@ public class projecto4 {
         trabajador1.setEdad(26);
         trabajador1.setTelefono("1234");
         trabajador1.setSalario(2000);
-        System.out.println("/0 nombre: " + trabajador1.getNombre() + " edad: " + trabajador1.getEdad() + " telefono " + trabajador1.getTelefono() + " Credito " + trabajador1.getSalario());
+        System.out.println(" nombre: " + trabajador1.getNombre() + " edad: " + trabajador1.getEdad() + " telefono " + trabajador1.getTelefono() + " Credito " + trabajador1.getSalario());
 
     }
 }
