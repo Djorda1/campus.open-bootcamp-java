@@ -1,4 +1,4 @@
-f=open('textoSql.txt','x')
+f=open('textoParaEjSql.py.txt','x')
 f.close()
 f = open('textoParaEjSql.py.txt', 'a+')
 f.write("Diego,Jorda,Tomas,Montalvo,Agustin,Freire,Nicolino,Reire,Sebastian,Argelio,Franco,Renasense,Ivan,Ramirez,Freddy,Mercurio")
