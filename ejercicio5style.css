@@ -1,0 +1,16 @@
+.boton{padding: 15px;
+        border-radius: 3px;
+        border-color: bisque;
+        background-color:antiquewhite;
+                color:lightcoral;
+        width: 100px;
+        height: 65px;
+        }
+.boton::before{content: 'pasa por arriba';
+                
+                }
+.boton:hover{
+            background-color: lightgreen;
+            color: white;
+            }
+.boton:hover::before{content: 'Hecho';}
